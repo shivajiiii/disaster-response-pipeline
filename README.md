@@ -49,9 +49,9 @@ Please install python and import following packages and libraries: import nltk, 
 
 ## Screenshots:
 
-![](Screenshot_1.PNG)
-![](Screenshot_2.PNG)
-![](Screenshot_3.PNG)
+![Screenshot_1.PNG](https://github.com/shivajiiii/disaster-response-pipeline/blob/master/Screenshot_1.png)
+![Screenshot_2.PNG](https://github.com/shivajiiii/disaster-response-pipeline/blob/master/Screenshot_2.png)
+![Screenshot_3.PNG](https://github.com/shivajiiii/disaster-response-pipeline/blob/master/Screenshot_3.png)
 
 ## Licensing, Authors, Acknowledgements
 The dataset was provided by Figure-8 and thanks to Udacity for this interesting project.
